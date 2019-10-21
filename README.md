@@ -8,6 +8,7 @@ chnage by Advaith without Pull
 
 ##Advaiths change---try now # modifying after commit --Supreetha
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> f3995ca916bcc1e048db46e6f55a9021600fdbf5
 
 ##changes to master branch by supreetha
@@ -17,3 +18,6 @@ chnage by Advaith without Pull
 chnage on master branch
 Chnage on ADVBRANCH1
 >>>>>>> f7e7e454bd72b679c4c7cae874b94a746dda1b6d
+=======
+#Changes to branch BRanchSup
+>>>>>>> BranchSup
